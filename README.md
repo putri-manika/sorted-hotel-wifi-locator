@@ -71,7 +71,7 @@ Pengguna dapat memasukkan lokasi secara manual atau otomatis berdasarkan alamat 
 
 ---
 
-## 🌍 Fitur Aplikasi
+## Fitur Aplikasi
 - Input lokasi pengguna via IP atau manual.
 - Menghitung jarak ke hotel dengan Haversine.
 - Pengurutan menggunakan 3 algoritma berbeda.
@@ -80,7 +80,7 @@ Pengguna dapat memasukkan lokasi secara manual atau otomatis berdasarkan alamat 
 
 ---
 
-## 👥 Anggota Kelompok
+## Anggota Kelompok
 | Nama                        | NIM           | 
 |-----------------------------|---------------|
 | Putri Manika Rukmamaya      | 23031554091   | 
