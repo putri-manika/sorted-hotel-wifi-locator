@@ -80,7 +80,7 @@ Pengguna dapat memasukkan lokasi secara manual atau otomatis berdasarkan alamat 
 
 ---
 
-## Anggota Kelompok
+## Kontributor
 | Nama                        | NIM           | 
 |-----------------------------|---------------|
 | Putri Manika Rukmamaya      | 23031554091   | 
